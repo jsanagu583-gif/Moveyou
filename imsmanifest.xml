@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="eXe-MANIFEST-mpnancajislk1"
+  xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+  xmlns:imsmd="http://www.imsglobal.org/xsd/imsmd_v1p2">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <adlcp:location>imslrm.xml</adlcp:location>
+  </metadata>
+  <organizations default="eXe-mpnancajislk1">
+    <organization identifier="eXe-mpnancajislk1" structure="hierarchical">
+      <title>Interactuamos  con bailes mixtos</title>
+      <item identifier="ITEM-page-mpnaf83p-zp2pqxrfa" identifierref="RES-page-mpnaf83p-zp2pqxrfa" isvisible="true">
+        <title>JUSTIFICACIÓN</title>
+      </item>
+      <item identifier="ITEM-page-mpnaf83s-fhlbnq619" identifierref="RES-page-mpnaf83s-fhlbnq619" isvisible="true">
+        <title>RELACIÓN CURRICULAR</title>
+      </item>
+      <item identifier="ITEM-page-mpnaf83s-flu8gddhh" identifierref="RES-page-mpnaf83s-flu8gddhh" isvisible="true">
+        <title>SECUENCIA DIDÁCTICA</title>
+      </item>
+      <item identifier="ITEM-page-mpnaf83t-p4jjmn6a0" identifierref="RES-page-mpnaf83t-p4jjmn6a0" isvisible="true">
+        <title>RECURSOS DIDÁCTICOS</title>
+      </item>
+      <item identifier="ITEM-page-mpnaf83u-exnn5gai0" identifierref="RES-page-mpnaf83u-exnn5gai0" isvisible="true">
+        <title>MONTAJE DEL PRODUCTO FINAL</title>
+      </item>
+      <item identifier="ITEM-page-mpnaf83v-lkn1ta785" identifierref="RES-page-mpnaf83v-lkn1ta785" isvisible="true">
+        <title>VALORACIÓN</title>
+      </item>
+      <item identifier="ITEM-page-mpnaf83v-q23rqhins" identifierref="RES-page-mpnaf83v-q23rqhins" isvisible="true">
+        <title>CRÉDITOS</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="RES-page-mpnaf83p-zp2pqxrfa" type="webcontent" adlcp:scormtype="sco" href="index.html">
+      <file href="index.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mpnaf83s-fhlbnq619" type="webcontent" adlcp:scormtype="sco" href="html/relacion-curricular.html">
+      <file href="html/relacion-curricular.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mpnaf83s-flu8gddhh" type="webcontent" adlcp:scormtype="sco" href="html/secuencia-didactica.html">
+      <file href="html/secuencia-didactica.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mpnaf83t-p4jjmn6a0" type="webcontent" adlcp:scormtype="sco" href="html/recursos-didacticos.html">
+      <file href="html/recursos-didacticos.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mpnaf83u-exnn5gai0" type="webcontent" adlcp:scormtype="sco" href="html/montaje-del-producto-final.html">
+      <file href="html/montaje-del-producto-final.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mpnaf83v-lkn1ta785" type="webcontent" adlcp:scormtype="sco" href="html/valoracion.html">
+      <file href="html/valoracion.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mpnaf83v-q23rqhins" type="webcontent" adlcp:scormtype="sco" href="html/creditos.html">
+      <file href="html/creditos.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="COMMON_FILES" type="webcontent" adlcp:scormtype="asset">
+      <file href="content.dtd"/>
+      <file href="content.xml"/>
+      <file href="content/css/base.css"/>
+      <file href="content/img/exe_powered_logo.png"/>
+      <file href="content/resources/326d5bf8-b23f-59ee-3fb9-d77c96a0e9bc.png"/>
+      <file href="content/resources/Infografía como usar ClipChamp.png"/>
+      <file href="content/resources/a5efd984-a9a6-06e1-513d-8f94aa8c044d.jpg"/>
+      <file href="content/resources/bbe06f98-4bfe-786f-958b-783b1919e43c.png"/>
+      <file href="content/resources/composicion_3_fotos.jpg"/>
+      <file href="content/resources/mceclip0.png"/>
+      <file href="idevices/download-source-file/download-package-licenses.png"/>
+      <file href="idevices/download-source-file/download-source-file.css"/>
+      <file href="idevices/download-source-file/download-source-file.js"/>
+      <file href="idevices/download-source-file/exequextsq.svg"/>
+      <file href="idevices/text/exequextsq.svg"/>
+      <file href="idevices/text/text.css"/>
+      <file href="idevices/text/text.html"/>
+      <file href="idevices/text/text.js"/>
+      <file href="imslrm.xml"/>
+      <file href="libs/SCOFunctions.js"/>
+      <file href="libs/SCORM_API_wrapper.js"/>
+      <file href="libs/bootstrap/bootstrap.bundle.min.js"/>
+      <file href="libs/bootstrap/bootstrap.bundle.min.js.map"/>
+      <file href="libs/bootstrap/bootstrap.min.css"/>
+      <file href="libs/bootstrap/bootstrap.min.css.map"/>
+      <file href="libs/common.js"/>
+      <file href="libs/common_i18n.js"/>
+      <file href="libs/elpx-manifest.js"/>
+      <file href="libs/exe_atools/exe_atools.css"/>
+      <file href="libs/exe_atools/exe_atools.js"/>
+      <file href="libs/exe_atools/exe_atools.png"/>
+      <file href="libs/exe_atools/exe_atools_ah.woff2"/>
+      <file href="libs/exe_atools/exe_atools_ah_ext.woff2"/>
+      <file href="libs/exe_atools/exe_atools_mo.woff2"/>
+      <file href="libs/exe_atools/exe_atools_mo_cy.woff2"/>
+      <file href="libs/exe_atools/exe_atools_mo_cy_ext.woff2"/>
+      <file href="libs/exe_atools/exe_atools_mo_ext.woff2"/>
+      <file href="libs/exe_atools/exe_atools_mo_vi.woff2"/>
+      <file href="libs/exe_atools/exe_atools_od.woff"/>
+      <file href="libs/exe_atools/exe_atools_od_b.woff"/>
+      <file href="libs/exe_atools/exe_atools_od_bi.woff"/>
+      <file href="libs/exe_atools/exe_atools_od_i.woff"/>
+      <file href="libs/exe_elpx_download/exe_elpx_download.js"/>
+      <file href="libs/exe_export.js"/>
+      <file href="libs/favicon.ico"/>
+      <file href="libs/fflate/fflate.umd.js"/>
+      <file href="libs/jquery/jquery.min.js"/>
+      <file href="theme/config.xml"/>
+      <file href="theme/fonts/Nunito-Bold.woff"/>
+      <file href="theme/fonts/Nunito-Bold.woff2"/>
+      <file href="theme/fonts/Nunito-BoldItalic.woff"/>
+      <file href="theme/fonts/Nunito-BoldItalic.woff2"/>
+      <file href="theme/fonts/Nunito-Italic.woff"/>
+      <file href="theme/fonts/Nunito-Italic.woff2"/>
+      <file href="theme/fonts/Nunito-Regular.woff"/>
+      <file href="theme/fonts/Nunito-Regular.woff2"/>
+      <file href="theme/icons/activity.png"/>
+      <file href="theme/icons/agreement.png"/>
+      <file href="theme/icons/alert.png"/>
+      <file href="theme/icons/arts.png"/>
+      <file href="theme/icons/ask.png"/>
+      <file href="theme/icons/book.png"/>
+      <file href="theme/icons/calculate.png"/>
+      <file href="theme/icons/case.png"/>
+      <file href="theme/icons/chrono.png"/>
+      <file href="theme/icons/collaborative.png"/>
+      <file href="theme/icons/competencies.png"/>
+      <file href="theme/icons/diary.png"/>
+      <file href="theme/icons/diary_alt.png"/>
+      <file href="theme/icons/discuss.png"/>
+      <file href="theme/icons/download.png"/>
+      <file href="theme/icons/draw.png"/>
+      <file href="theme/icons/english.png"/>
+      <file href="theme/icons/experiment.png"/>
+      <file href="theme/icons/explore.png"/>
+      <file href="theme/icons/file.png"/>
+      <file href="theme/icons/gallery.png"/>
+      <file href="theme/icons/geography.png"/>
+      <file href="theme/icons/guide.png"/>
+      <file href="theme/icons/history.png"/>
+      <file href="theme/icons/info.png"/>
+      <file href="theme/icons/interactive.png"/>
+      <file href="theme/icons/letters.png"/>
+      <file href="theme/icons/listen.png"/>
+      <file href="theme/icons/math.png"/>
+      <file href="theme/icons/music.png"/>
+      <file href="theme/icons/nature.png"/>
+      <file href="theme/icons/objetives.png"/>
+      <file href="theme/icons/observe.png"/>
+      <file href="theme/icons/passport.png"/>
+      <file href="theme/icons/perform.png"/>
+      <file href="theme/icons/piece.png"/>
+      <file href="theme/icons/pieces.png"/>
+      <file href="theme/icons/play.png"/>
+      <file href="theme/icons/present.png"/>
+      <file href="theme/icons/reflection.png"/>
+      <file href="theme/icons/roadmap.png"/>
+      <file href="theme/icons/share.png"/>
+      <file href="theme/icons/sport.png"/>
+      <file href="theme/icons/start.png"/>
+      <file href="theme/icons/stop.png"/>
+      <file href="theme/icons/suitcase.png"/>
+      <file href="theme/icons/technology.png"/>
+      <file href="theme/icons/think.png"/>
+      <file href="theme/icons/think_alt.png"/>
+      <file href="theme/icons/video.png"/>
+      <file href="theme/img/arrow.svg"/>
+      <file href="theme/img/arrow_back.svg"/>
+      <file href="theme/img/arrow_color.svg"/>
+      <file href="theme/img/arrow_down.svg"/>
+      <file href="theme/img/arrow_down_color.svg"/>
+      <file href="theme/img/arrow_down_white.svg"/>
+      <file href="theme/img/arrow_forward.svg"/>
+      <file href="theme/img/arrow_up.svg"/>
+      <file href="theme/img/arrow_up_white.svg"/>
+      <file href="theme/img/back_arrow.svg"/>
+      <file href="theme/img/background.png"/>
+      <file href="theme/img/book.svg"/>
+      <file href="theme/img/book_color.svg"/>
+      <file href="theme/img/book_white.svg"/>
+      <file href="theme/img/forward_arrow.svg"/>
+      <file href="theme/img/licenses.gif"/>
+      <file href="theme/img/logo.png"/>
+      <file href="theme/img/logo_responsive.png"/>
+      <file href="theme/img/menu_closed.svg"/>
+      <file href="theme/img/menu_open.svg"/>
+      <file href="theme/img/menu_open_black.svg"/>
+      <file href="theme/img/search.svg"/>
+      <file href="theme/img/switch.svg"/>
+      <file href="theme/img/switch_white.svg"/>
+      <file href="theme/img/teacher_hat.svg"/>
+      <file href="theme/screenshot.png"/>
+      <file href="theme/style.css"/>
+      <file href="theme/style.js"/>
+    </resource>
+  </resources>
+</manifest>

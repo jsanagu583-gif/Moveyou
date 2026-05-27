@@ -1,0 +1,976 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260527015615LSSK1E</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260527015615V5V4GR</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Interactuamos  con bailes mixtos</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Vídeo interactivo danzas mixtas</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>JUAN CARLOS SÁNCHEZ AGUDO</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value> A lo largo de diversas sesiones al alumnado se les familiarizará de manera conceptual y práctica con el footwork dance, así como la coreografía de algunas danzas del mundo. A continuación se les propondrá a los grupos organizados, previamente, la creación de un video interactivo donde mezclen pasos de las experiencias trabajadas.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1779839756288</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mpnaf83p-zp2pqxrfa</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>JUSTIFICACIÓN</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>JUSTIFICACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página nueva</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>JUSTIFICACIÓN</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpnaf83p-zp2pqxrfa</odePageId>
+      <odeBlockId>block-1779829301916-ii93f2j2q</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpnaf83p-zp2pqxrfa</odePageId>
+          <odeBlockId>block-1779829301916-ii93f2j2q</odeBlockId>
+          <odeIdeviceId>idevice-1779829301915-bjdbbug1y</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Con "Moveyou" se va tratar de convertir al alumnado en instructores interactivos a través del desarrollo de diferentes habilidades motrices acompañadas de diversos recursos. Lo que supondrá trabajar competencias de educación artística (danza,expresión corporal) con la educación física. Las diferentes experiencias motrices se vivenciarán en un entorno de trabajo cooperativo, respeto entre iguales, convivencia y dichas experiencias tengan un valora significativo e influyente en su día a día, tanto dentro como fuera del entorno escolar. Mencionar, el trabajo de los diferentes saberes motrices en un inicio supondrá el empleo de estilos tradicionales y a medida que avance la situación pedagógica vayamos ayudándonos de estilos que impliquen más al alumnado en las diversas prácticas.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779829301915-bjdbbug1y","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Con \"Moveyou\" se va tratar de convertir al alumnado en instructores interactivos a través del desarrollo de diferentes habilidades motrices acompañadas de diversos recursos. Lo que supondrá trabajar competencias de educación artística (danza,expresión corporal) con la educación física. Las diferentes experiencias motrices se vivenciarán en un entorno de trabajo cooperativo, respeto entre iguales, convivencia y dichas experiencias tengan un valora significativo e influyente en su día a día, tanto dentro como fuera del entorno escolar. Mencionar, el trabajo de los diferentes saberes motrices en un inicio supondrá el empleo de estilos tradicionales y a medida que avance la situación pedagógica vayamos ayudándonos de estilos que impliquen más al alumnado en las diversas prácticas.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpnaf83s-fhlbnq619</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>RELACIÓN CURRICULAR</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>RELACIÓN CURRICULAR</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página nueva (copy)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>RELACIÓN CURRICULAR</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpnaf83s-fhlbnq619</odePageId>
+      <odeBlockId>block-1779829735532-19kvrj542</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpnaf83s-fhlbnq619</odePageId>
+          <odeBlockId>block-1779829735532-19kvrj542</odeBlockId>
+          <odeIdeviceId>idevice-1779829735530-40qz3726j</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A través del siguiente enlace conoceremos la vinculación de las <a href="https://drive.google.com/file/d/1DgSvF_tdLAJ1Bv1l51m4X4N4hKCH3b45/view?usp=sharing" title="">vinculación de las tareas con los criterios e instrumentos de evaluación</a>.</p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779829735530-40qz3726j","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A través del siguiente enlace conoceremos la vinculación de las <a href=\"https://drive.google.com/file/d/1DgSvF_tdLAJ1Bv1l51m4X4N4hKCH3b45/view?usp=sharing\" title=\"\">vinculación de las tareas con los criterios e instrumentos de evaluación</a>.</p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpnaf83s-flu8gddhh</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>SECUENCIA DIDÁCTICA</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SECUENCIA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página nueva (copy) (copy)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>SECUENCIA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpnaf83s-flu8gddhh</odePageId>
+      <odeBlockId>block-1779829973901-51tfa8z1k</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpnaf83s-flu8gddhh</odePageId>
+          <odeBlockId>block-1779829973901-51tfa8z1k</odeBlockId>
+          <odeIdeviceId>idevice-1779829973899-i6ogf5s9a</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779829973899-i6ogf5s9a","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpnaf83s-flu8gddhh</odePageId>
+      <odeBlockId>block-1779830028274-n8rfknkb5</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpnaf83s-flu8gddhh</odePageId>
+          <odeBlockId>block-1779830028274-n8rfknkb5</odeBlockId>
+          <odeIdeviceId>idevice-1779830028273-5kt2pqnpb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Con la ayuda del siguiente enlace conectaremos y podremos tener una visión global de la secuencia de actividades a desarrollar en las diferentes partes del producto final: <a href="https://drive.google.com/file/d/1nP-7hnOvaAyoXpZ53Fkm7MfjSwFDNdq1/view?usp=sharing" title="">MapaMental "Moveyou."</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779830028273-5kt2pqnpb","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Con la ayuda del siguiente enlace conectaremos y podremos tener una visión global de la secuencia de actividades a desarrollar en las diferentes partes del producto final: <a href=\"https://drive.google.com/file/d/1nP-7hnOvaAyoXpZ53Fkm7MfjSwFDNdq1/view?usp=sharing\" title=\"\">MapaMental \"Moveyou.\"</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpnaf83t-p4jjmn6a0</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>RECURSOS DIDÁCTICOS</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>RECURSOS DIDÁCTICOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>RECURSOS DIDÁCTICOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>RECURSOS DIDÁCTICOS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpnaf83t-p4jjmn6a0</odePageId>
+      <odeBlockId>block-1779830551325-xtmret606</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpnaf83t-p4jjmn6a0</odePageId>
+          <odeBlockId>block-1779830551325-xtmret606</odeBlockId>
+          <odeIdeviceId>idevice-1779830551323-ukbqwequ3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="asset://a5efd984-a9a6-06e1-513d-8f94aa8c044d.jpg" width="1907" height="540" alt="" /></p>
+<p>A través de los siguientes enlaces podremos tener acceso a las plantillas de las tres actividades y utilizarlas como diario de clase y podamos trasladar el ensayo a otros entornos:</p>
+<p><a href="https://drive.google.com/file/d/1wcYquZsqDSRrb_Y1NkkAFSAxRUviW2ob/view?usp=drive_link" title="">Plantilla FootWorkDance</a></p>
+<p><a href="https://drive.google.com/file/d/1BTRuqmVQS5xQsTYiOIzUlwnxZBngkIkd/view?usp=sharing" title="">Plantilla de la Tarantella</a></p>
+<p><a href="https://drive.google.com/file/d/1F2FbpI9hwrjjdJVJrqeOry2X_Y_SivGR/view?usp=sharing" title="">Plantilla FreezeDance</a></p>
+<p>Además, comparto el enlace para el acceso y descarga de los videos para su uso y utilización en los diferentes ensayos y representaciones posibles, tanto en clase de Educación Física como en otros momentos tanto dentro como fuera del horario escolar:</p>
+<p><a href="https://drive.google.com/file/d/1eME-XKSk8xE9jf9CU-pyOYnl887sa1z1/view?usp=sharing" title="">Vídeo de la Tarantella</a></p>
+<p><a href="https://drive.google.com/file/d/1yDS9NHaLb1doRywj60zcTf81eYz775OQ/view?usp=sharing" title="">Vídeo FreezeDance</a></p>
+<p><a href="https://drive.google.com/file/d/1nZGQnjUAAuFKXWTvvQ1IAK2Nj5ZwtztA/view?usp=sharing" title="">Vídeo FootWorkDance</a></p>
+<p></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779830551323-ukbqwequ3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"asset://a5efd984-a9a6-06e1-513d-8f94aa8c044d.jpg\" width=\"1907\" height=\"540\" alt=\"\" /></p>\n<p>A través de los siguientes enlaces podremos tener acceso a las plantillas de las tres actividades y utilizarlas como diario de clase y podamos trasladar el ensayo a otros entornos:</p>\n<p><a href=\"https://drive.google.com/file/d/1wcYquZsqDSRrb_Y1NkkAFSAxRUviW2ob/view?usp=drive_link\" title=\"\">Plantilla FootWorkDance</a></p>\n<p><a href=\"https://drive.google.com/file/d/1BTRuqmVQS5xQsTYiOIzUlwnxZBngkIkd/view?usp=sharing\" title=\"\">Plantilla de la Tarantella</a></p>\n<p><a href=\"https://drive.google.com/file/d/1F2FbpI9hwrjjdJVJrqeOry2X_Y_SivGR/view?usp=sharing\" title=\"\">Plantilla FreezeDance</a></p>\n<p>Además, comparto el enlace para el acceso y descarga de los videos para su uso y utilización en los diferentes ensayos y representaciones posibles, tanto en clase de Educación Física como en otros momentos tanto dentro como fuera del horario escolar:</p>\n<p><a href=\"https://drive.google.com/file/d/1eME-XKSk8xE9jf9CU-pyOYnl887sa1z1/view?usp=sharing\" title=\"\">Vídeo de la Tarantella</a></p>\n<p><a href=\"https://drive.google.com/file/d/1yDS9NHaLb1doRywj60zcTf81eYz775OQ/view?usp=sharing\" title=\"\">Vídeo FreezeDance</a></p>\n<p><a href=\"https://drive.google.com/file/d/1nZGQnjUAAuFKXWTvvQ1IAK2Nj5ZwtztA/view?usp=sharing\" title=\"\">Vídeo FootWorkDance</a></p>\n<p></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpnaf83u-exnn5gai0</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>MONTAJE DEL PRODUCTO FINAL</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>MONTAJE DEL PRODUCTO FINAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>MONTAJE DEL PRODUCTO FINAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>MONTAJE DEL PRODUCTO FINAL</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpnaf83u-exnn5gai0</odePageId>
+      <odeBlockId>block-1779832367888-varrhmif1</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpnaf83u-exnn5gai0</odePageId>
+          <odeBlockId>block-1779832367888-varrhmif1</odeBlockId>
+          <odeIdeviceId>idevice-1779832367887-v58ga3o3t</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>    En el ensayo de las tres actividades tendremos en cuenta la distribución espacial ( <a href="https://drive.google.com/file/d/1FSxy1zwa5DZMFSejRbSDwF-a2suXNLAd/view?usp=sharing" title="">plantilla organización espacial</a> ) para su representación y grabación final.</p>
+<p>Después de tener hecho la grabación final de cada baile nos ayudaremos de la aplicación ClipChamp para el montaje y su posterior difusión por los diferentes niveles del centro. Para ello nos ayudaremos de la siguiente infografía:</p>
+<p><img src="asset://bbe06f98-4bfe-786f-958b-783b1919e43c.png" width="1024" height="1536" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779832367887-v58ga3o3t","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>    En el ensayo de las tres actividades tendremos en cuenta la distribución espacial ( <a href=\"https://drive.google.com/file/d/1FSxy1zwa5DZMFSejRbSDwF-a2suXNLAd/view?usp=sharing\" title=\"\">plantilla organización espacial</a> ) para su representación y grabación final.</p>\n<p>Después de tener hecho la grabación final de cada baile nos ayudaremos de la aplicación ClipChamp para el montaje y su posterior difusión por los diferentes niveles del centro. Para ello nos ayudaremos de la siguiente infografía:</p>\n<p><img src=\"asset://bbe06f98-4bfe-786f-958b-783b1919e43c.png\" width=\"1024\" height=\"1536\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpnaf83v-lkn1ta785</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>VALORACIÓN</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>VALORACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>VALORACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>VALORACIÓN</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpnaf83v-lkn1ta785</odePageId>
+      <odeBlockId>block-1779831513512-l9icwmzjb</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpnaf83v-lkn1ta785</odePageId>
+          <odeBlockId>block-1779831513512-l9icwmzjb</odeBlockId>
+          <odeIdeviceId>idevice-1779831513509-6yj9ulbhl</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En la Fase Aplicación, representación de la coreografía “Moveyou”, por grupos, voy a emplear el instrumento de evaluación, LISTA DE CONTROL. Que constará de los siguientes ítems de observación:</p>
+<p>1. Organización previa</p>
+<p>☐ Verificar posiciones y formaciones.<br />☐ Tener una copia de la música en varios dispositivos.<br />☐ Confirmar horario y orden de actuación.<br />2. Ensayos</p>
+<p>☐ Practicar sincronización con la música.<br />☐ Corregir tiempos y desplazamientos.<br />☐ Ensayar expresividad y actitud corporal.<br />☐ Practicar saludos finales.<br />Durante la representación</p>
+<p>☐ Mantener la coordinación del grupo.<br />☐ Seguir el ritmo musical.<br />☐ Mantener buena postura corporal.<br />☐ Adaptarse si ocurre algún error sin detenerse.<br />☐ Respetar el espacio entre compañeros.<br />Finalización</p>
+<p>☐ Salir ordenadamente del escenario.<br />☐ Recoger materiales y accesorios.<br />☐ Felicitar y motivar al grupo.<br />☐ Evaluar aspectos positivos y mejoras para futuras actuaciones.<br />Con la aplicación de este instrumento espero obtener resultados que me den respuesta a:</p>
+<p>Ø  Identificar el nivel de preparación de los alumnos antes de la representación.</p>
+<p>Ø  Valorar la coordinación y sincronización del grupo durante la coreografía.</p>
+<p>Ø  Evaluar la expresión corporal, actitud y seguridad escénica de los estudiantes.</p>
+<p>Ø  Comprobar el seguimiento del ritmo y la correcta ejecución de los movimientos.</p>
+<p>Ø  Detectar fortalezas y dificultades individuales o grupales.</p>
+<p>Ø  Verificar el cumplimiento de normas de organización, disciplina y trabajo en equipo.</p>
+<p>Ø  Favorecer la autoevaluación y reflexión sobre el desempeño artístico.</p>
+<p>Ø  Obtener información para mejorar futuras coreografías y ensayos.</p>
+<p>Ø  Promover la confianza, creatividad y participación activa de los alumnos.</p>
+<p>Estos resultados los voy a analizar de un punto de vista cualitativo, es decir:</p>
+<p>Aspectos a observar:</p>
+<p>Ø  Trabajo en equipo</p>
+<p>Ø  Seguridad y expresión corporal</p>
+<p>Ø  Coordinación grupal</p>
+<p>Ø  Responsabilidad y disciplina</p>
+<p>Ø  Actitud durante ensayos y presentación</p>
+<p>Ø  Creatividad y entusiasmo</p>
+<p>Y por último, para qué me van a servir estos resultados obtenidos:</p>
+<p>Ø  Conocer el nivel de desempeño de los alumnos en la representación de la coreografía.</p>
+<p>Ø  Identificar fortalezas y dificultades tanto individuales como grupales.</p>
+<p>Ø  Evaluar el logro de los objetivos planteados para la actividad.</p>
+<p>Ø  Mejorar futuras presentaciones y ensayos a partir de los aspectos detectados.</p>
+<p>Ø  Tomar decisiones pedagógicas para reforzar habilidades como coordinación, ritmo, expresión corporal y trabajo en equipo.</p>
+<p>Ø  Dar retroalimentación a los alumnos sobre su participación y desempeño.</p>
+<p>Ø  Motivar a los estudiantes a mejorar su disciplina, responsabilidad y seguridad escénica.</p>
+<p>Ø  Registrar evidencias del aprendizaje y progreso de los alumnos.</p>
+<p>Ø  Facilitar una evaluación más objetiva y organizada del trabajo realizado.</p>
+<p>Ø  Promover la reflexión del docente sobre las estrategias utilizadas durante la enseñanza de la coreografía.</p>
+<p>Durante la fase de Conclusión de este proyecto voy a emplear el instrumento, “Diana de Coevaluación”:</p>
+<p> </p>
+<p> </p>
+<p>Durante la fase conclusión de este proyecto voy a emplear la DIANA DE COEVALUCIÓN.</p>
+<p>Aspectos a evaluar en la diana</p>
+<p>Aspecto<br />1<br />2<br />3<br />4<br />5<br />Participación de todos los integrantes<br />☐<br />☐<br />☐<br />☐<br />☐<br />Coordinación grupal<br />☐<br />☐<br />☐<br />☐<br />☐<br />Creatividad en la coreografía<br />☐<br />☐<br />☐<br />☐<br />☐<br />Respeto y trabajo en equipo<br />☐<br />☐<br />☐<br />☐<br />☐<br />Seguimiento del ritmo musical<br />☐<br />☐<br />☐<br />☐<br />☐<br />Organización durante los ensayos<br />☐<br />☐<br />☐<br />☐<br />☐<br />Expresión corporal y actitud<br />☐<br />☐<br />☐<br />☐<br />☐<br />Responsabilidad y compromiso<br />☐<br />☐<br />☐<br />☐<br />☐<br />  Cada integrante del grupo evaluará el desempeño colectivo.</p>
+<p>  Se colorea o marca del centro hacia afuera según el nivel alcanzado:</p>
+<p>1 = Necesita mejorar<br />2 = Regular<br />3 = Bueno<br />4 = Muy bueno<br />5 = Excelente<br /> </p>
+<p>Con la aplicación de esta Diana de coevalución espero obtener resultados que den respuesta a:</p>
+<p>Ø  Identificar el nivel de desempeño del grupo durante la construcción de la coreografía.</p>
+<p>Ø  Conocer cómo perciben los alumnos el trabajo colaborativo entre compañeros.</p>
+<p>Ø  Detectar fortalezas grupales, como coordinación, creatividad o responsabilidad.</p>
+<p>Ø  Reconocer las dificultades que presenta el equipo en aspectos específicos.</p>
+<p>Ø  Favorecer la reflexión y el análisis crítico sobre el trabajo realizado.</p>
+<p>Ø  Promover la participación activa de todos los integrantes del grupo.</p>
+<p>Ø  Mejorar la comunicación, el respeto y la cooperación entre los alumnos.</p>
+<p>Ø  Motivar a los estudiantes a asumir compromisos para mejorar futuras presentaciones.</p>
+<p>Ø  Obtener información para que el docente pueda orientar y reforzar aspectos necesarios.</p>
+<p>Ø  Desarrollar habilidades de autoevaluación y valoración del trabajo colectivo.</p>
+<p>En cuanto como analizo estos resultados:</p>
+<p>Desde un punto de vista cualitativo y teniendo en cuenta que aspectos voy a considerar:</p>
+<p>Ø  Participación activa.</p>
+<p>Ø  Actitud y compromiso.</p>
+<p>Ø  Relación entre compañeros.</p>
+<p>Ø  Creatividad y expresión corporal.</p>
+<p>Ø  Responsabilidad durante los ensayos.</p>
+<p>Ejemplo de análisis: El grupo mostró creatividad y buena actitud; sin embargo, algunos integrantes participaron poco durante los ensayos.”</p>
+<p>También desde un punto visual: La diana permite observar rápidamente las fortalezas y debilidades del grupo.</p>
+<p>Interpretación:</p>
+<p>Ø  Puntuaciones cercanas al borde exterior (4 y 5):<br />indican aspectos fuertes del grupo.</p>
+<p>Ø  Puntuaciones cercanas al centro (1 y 2):<br />muestran aspectos que necesitan mejorar.</p>
+<p>Y por último, los datos obtenidos nos servirán para:</p>
+<p>Ø  Conocer cómo trabajó el grupo durante la construcción de la coreografía.</p>
+<p>Ø  Identificar fortalezas grupales, como creatividad, coordinación o participación.</p>
+<p>Ø  Detectar dificultades en aspectos como organización, comunicación o compromiso.</p>
+<p>Ø  Evaluar el nivel de colaboración y trabajo en equipo entre los alumnos.</p>
+<p>Ø  Mejorar futuras coreografías y actividades artísticas.</p>
+<p>Ø  Tomar decisiones pedagógicas para reforzar habilidades que necesitan mayor práctica.</p>
+<p>Ø  Proporcionar retroalimentación objetiva a los estudiantes sobre su desempeño grupal.</p>
+<p>Ø  Favorecer la reflexión y la autoevaluación de los alumnos sobre su participación.</p>
+<p>Ø  Promover valores como respeto, responsabilidad y cooperación.</p>
+<p>Ø  Registrar evidencias del aprendizaje y del progreso del grupo.</p>
+<p><img src="asset://326d5bf8-b23f-59ee-3fb9-d77c96a0e9bc.png" /></p>
+<p> </p>
+<p> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779831513509-6yj9ulbhl","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En la Fase Aplicación, representación de la coreografía “Moveyou”, por grupos, voy a emplear el instrumento de evaluación, LISTA DE CONTROL. Que constará de los siguientes ítems de observación:</p>\n<p>1. Organización previa</p>\n<p>☐ Verificar posiciones y formaciones.<br />☐ Tener una copia de la música en varios dispositivos.<br />☐ Confirmar horario y orden de actuación.<br />2. Ensayos</p>\n<p>☐ Practicar sincronización con la música.<br />☐ Corregir tiempos y desplazamientos.<br />☐ Ensayar expresividad y actitud corporal.<br />☐ Practicar saludos finales.<br />Durante la representación</p>\n<p>☐ Mantener la coordinación del grupo.<br />☐ Seguir el ritmo musical.<br />☐ Mantener buena postura corporal.<br />☐ Adaptarse si ocurre algún error sin detenerse.<br />☐ Respetar el espacio entre compañeros.<br />Finalización</p>\n<p>☐ Salir ordenadamente del escenario.<br />☐ Recoger materiales y accesorios.<br />☐ Felicitar y motivar al grupo.<br />☐ Evaluar aspectos positivos y mejoras para futuras actuaciones.<br />Con la aplicación de este instrumento espero obtener resultados que me den respuesta a:</p>\n<p>Ø  Identificar el nivel de preparación de los alumnos antes de la representación.</p>\n<p>Ø  Valorar la coordinación y sincronización del grupo durante la coreografía.</p>\n<p>Ø  Evaluar la expresión corporal, actitud y seguridad escénica de los estudiantes.</p>\n<p>Ø  Comprobar el seguimiento del ritmo y la correcta ejecución de los movimientos.</p>\n<p>Ø  Detectar fortalezas y dificultades individuales o grupales.</p>\n<p>Ø  Verificar el cumplimiento de normas de organización, disciplina y trabajo en equipo.</p>\n<p>Ø  Favorecer la autoevaluación y reflexión sobre el desempeño artístico.</p>\n<p>Ø  Obtener información para mejorar futuras coreografías y ensayos.</p>\n<p>Ø  Promover la confianza, creatividad y participación activa de los alumnos.</p>\n<p>Estos resultados los voy a analizar de un punto de vista cualitativo, es decir:</p>\n<p>Aspectos a observar:</p>\n<p>Ø  Trabajo en equipo</p>\n<p>Ø  Seguridad y expresión corporal</p>\n<p>Ø  Coordinación grupal</p>\n<p>Ø  Responsabilidad y disciplina</p>\n<p>Ø  Actitud durante ensayos y presentación</p>\n<p>Ø  Creatividad y entusiasmo</p>\n<p>Y por último, para qué me van a servir estos resultados obtenidos:</p>\n<p>Ø  Conocer el nivel de desempeño de los alumnos en la representación de la coreografía.</p>\n<p>Ø  Identificar fortalezas y dificultades tanto individuales como grupales.</p>\n<p>Ø  Evaluar el logro de los objetivos planteados para la actividad.</p>\n<p>Ø  Mejorar futuras presentaciones y ensayos a partir de los aspectos detectados.</p>\n<p>Ø  Tomar decisiones pedagógicas para reforzar habilidades como coordinación, ritmo, expresión corporal y trabajo en equipo.</p>\n<p>Ø  Dar retroalimentación a los alumnos sobre su participación y desempeño.</p>\n<p>Ø  Motivar a los estudiantes a mejorar su disciplina, responsabilidad y seguridad escénica.</p>\n<p>Ø  Registrar evidencias del aprendizaje y progreso de los alumnos.</p>\n<p>Ø  Facilitar una evaluación más objetiva y organizada del trabajo realizado.</p>\n<p>Ø  Promover la reflexión del docente sobre las estrategias utilizadas durante la enseñanza de la coreografía.</p>\n<p>Durante la fase de Conclusión de este proyecto voy a emplear el instrumento, “Diana de Coevaluación”:</p>\n<p> </p>\n<p> </p>\n<p>Durante la fase conclusión de este proyecto voy a emplear la DIANA DE COEVALUCIÓN.</p>\n<p>Aspectos a evaluar en la diana</p>\n<p>Aspecto<br />1<br />2<br />3<br />4<br />5<br />Participación de todos los integrantes<br />☐<br />☐<br />☐<br />☐<br />☐<br />Coordinación grupal<br />☐<br />☐<br />☐<br />☐<br />☐<br />Creatividad en la coreografía<br />☐<br />☐<br />☐<br />☐<br />☐<br />Respeto y trabajo en equipo<br />☐<br />☐<br />☐<br />☐<br />☐<br />Seguimiento del ritmo musical<br />☐<br />☐<br />☐<br />☐<br />☐<br />Organización durante los ensayos<br />☐<br />☐<br />☐<br />☐<br />☐<br />Expresión corporal y actitud<br />☐<br />☐<br />☐<br />☐<br />☐<br />Responsabilidad y compromiso<br />☐<br />☐<br />☐<br />☐<br />☐<br />  Cada integrante del grupo evaluará el desempeño colectivo.</p>\n<p>  Se colorea o marca del centro hacia afuera según el nivel alcanzado:</p>\n<p>1 = Necesita mejorar<br />2 = Regular<br />3 = Bueno<br />4 = Muy bueno<br />5 = Excelente<br /> </p>\n<p>Con la aplicación de esta Diana de coevalución espero obtener resultados que den respuesta a:</p>\n<p>Ø  Identificar el nivel de desempeño del grupo durante la construcción de la coreografía.</p>\n<p>Ø  Conocer cómo perciben los alumnos el trabajo colaborativo entre compañeros.</p>\n<p>Ø  Detectar fortalezas grupales, como coordinación, creatividad o responsabilidad.</p>\n<p>Ø  Reconocer las dificultades que presenta el equipo en aspectos específicos.</p>\n<p>Ø  Favorecer la reflexión y el análisis crítico sobre el trabajo realizado.</p>\n<p>Ø  Promover la participación activa de todos los integrantes del grupo.</p>\n<p>Ø  Mejorar la comunicación, el respeto y la cooperación entre los alumnos.</p>\n<p>Ø  Motivar a los estudiantes a asumir compromisos para mejorar futuras presentaciones.</p>\n<p>Ø  Obtener información para que el docente pueda orientar y reforzar aspectos necesarios.</p>\n<p>Ø  Desarrollar habilidades de autoevaluación y valoración del trabajo colectivo.</p>\n<p>En cuanto como analizo estos resultados:</p>\n<p>Desde un punto de vista cualitativo y teniendo en cuenta que aspectos voy a considerar:</p>\n<p>Ø  Participación activa.</p>\n<p>Ø  Actitud y compromiso.</p>\n<p>Ø  Relación entre compañeros.</p>\n<p>Ø  Creatividad y expresión corporal.</p>\n<p>Ø  Responsabilidad durante los ensayos.</p>\n<p>Ejemplo de análisis: El grupo mostró creatividad y buena actitud; sin embargo, algunos integrantes participaron poco durante los ensayos.”</p>\n<p>También desde un punto visual: La diana permite observar rápidamente las fortalezas y debilidades del grupo.</p>\n<p>Interpretación:</p>\n<p>Ø  Puntuaciones cercanas al borde exterior (4 y 5):<br />indican aspectos fuertes del grupo.</p>\n<p>Ø  Puntuaciones cercanas al centro (1 y 2):<br />muestran aspectos que necesitan mejorar.</p>\n<p>Y por último, los datos obtenidos nos servirán para:</p>\n<p>Ø  Conocer cómo trabajó el grupo durante la construcción de la coreografía.</p>\n<p>Ø  Identificar fortalezas grupales, como creatividad, coordinación o participación.</p>\n<p>Ø  Detectar dificultades en aspectos como organización, comunicación o compromiso.</p>\n<p>Ø  Evaluar el nivel de colaboración y trabajo en equipo entre los alumnos.</p>\n<p>Ø  Mejorar futuras coreografías y actividades artísticas.</p>\n<p>Ø  Tomar decisiones pedagógicas para reforzar habilidades que necesitan mayor práctica.</p>\n<p>Ø  Proporcionar retroalimentación objetiva a los estudiantes sobre su desempeño grupal.</p>\n<p>Ø  Favorecer la reflexión y la autoevaluación de los alumnos sobre su participación.</p>\n<p>Ø  Promover valores como respeto, responsabilidad y cooperación.</p>\n<p>Ø  Registrar evidencias del aprendizaje y del progreso del grupo.</p>\n<p><img src=\"asset://326d5bf8-b23f-59ee-3fb9-d77c96a0e9bc.png\" /></p>\n<p> </p>\n<p> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpnaf83v-q23rqhins</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CRÉDITOS</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpnaf83v-q23rqhins</odePageId>
+      <odeBlockId>block-1779831739687-ojwpot9wk</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpnaf83v-q23rqhins</odePageId>
+          <odeBlockId>block-1779831739687-ojwpot9wk</odeBlockId>
+          <odeIdeviceId>idevice-1779831739686-zodkaobhq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br /></p>
+<p>...</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779831739686-zodkaobhq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /></p>\n<p>...</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpnaf83v-q23rqhins</odePageId>
+      <odeBlockId>block-1779831825384-eeeqmervh</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpnaf83v-q23rqhins</odePageId>
+          <odeBlockId>block-1779831825384-eeeqmervh</odeBlockId>
+          <odeIdeviceId>idevice-1779831825382-7jtmy6rnr</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info" height="257" style="width: 83.0741%;"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th style="width: 25.1938%;">Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">MoveYou.</span></td>
+</tr>
+<tr>
+<th style="width: 25.1938%;">Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th style="width: 25.1938%;">Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">-</span></td>
+</tr>
+<tr>
+<th style="width: 25.1938%;">Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
